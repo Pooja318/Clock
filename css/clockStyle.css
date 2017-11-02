@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Grand+Hotel');
+
+.container{
+    font-family: 'Grand Hotel', cursive;
+    text-align: center;
+    width: 450px;
+    position: fixed;
+    padding: 0px;
+    margin: 0px;    
+    font-size: 7em;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -220px;
+    padding: 150px 20px;
+    border: dashed 2px #fff;
+    border-radius: 600px;  
+    color: #fff;
+}
+
+/*
+.clock{
+    padding: 150px 20px;
+    border: dashed 2px black;
+    border-radius: 600px;   
+}
+*/
